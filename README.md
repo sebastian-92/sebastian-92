@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**sebastian-92/sebastian-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Starfleet Personnel File - [Cbass92]
+    +--------------------------------------+
+    | ## Personnel Information             |
+    | - **Name:**   Sebastian M            |
+    | - **Species:**      Vulcan           |
+    | - **Place of Birth:**  Earth         |
+    | - **Stardate of Birth:** -312930.6255|
+    | - **Entered Academy:** -308387.4142  |
+    | ## Service Record                    |
+    | - **Latest Assignment:** Engineering |
+    |                                      |
+    | ## Skills                            |
+    |- **Mathematics**                     |
+    |- **Penguinmod**                      |
+    |- **Javascript**                      |
+    |- **HTML**                            |
+    +--------------------------------------+
