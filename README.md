@@ -12,10 +12,14 @@
     |                                      |
     | ## Skills                            |
     |- **Mathematics**                     |
-    |- **Penguinmod**                      |
     |- **Javascript**                      |
     |- **HTML**                            |
+    |- **Trombone**                        |
     +--------------------------------------+
 ```
 ![cbass92's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-92&theme=tokyonight&show_icons=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
