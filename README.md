@@ -18,4 +18,3 @@
     +--------------------------------------+
 ```
 ![cbass92's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-92&theme=tokyonight&show_icons=true)
-  ![Snake animation](https://github.com/sebastian-92/sebastian-92/blob/output/github-contribution-grid-snake.svg)
