@@ -10,11 +10,11 @@
     | - **Latest Assignment:** Engineering |
     |                                      |
     | ## Skills                            |
-    |- **Mathematics**                     |
     |- **Javascript**                      |
+    |- **Python**                          |
+    |- **Mathematics**                     |
     |- **HTML**                            |
     |- **CSS**                             |
-    |- **Python**                          |
     |- **Trombone**                        |
     +--------------------------------------+
 ![cbass92's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-92&theme=tokyonight&show_icons=true)
