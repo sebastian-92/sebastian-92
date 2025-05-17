@@ -1,20 +1,8 @@
-# Starfleet Personnel File - [Cbass92]
-
-## Personnel Information             
-**Name:**   Sebastian M            
-- **Species:**      Vulcan           
-- **Place of Birth:**  Earth         
-- **Stardate of Birth:** -312930.6255
-- **Entered Academy:** -308387.4142  
-## Service Record                    
-- **Latest Assignment:** Engineering 
-                                          
-## Skills                            
-- **Javascript**                      
-- **Python**                          
-- **Mathematics**                     
-- **HTML**                            
-- **CSS**                             
-- **Trombone**
-
+# [Cbass92]
+I code things for funsies                                      
+## Languages & Libraries
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,nodejs,expressjs,python,css,bulma,daisyui,regex,discordbots&titles=true)
+## Things I know how to use
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vercel,cloudflare,git,github,debian,ubuntu,astro,raspberrypi,nginx,postman&titles=true)
+## Stats
 ![cbass92's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-92&theme=tokyonight&show_icons=true)
