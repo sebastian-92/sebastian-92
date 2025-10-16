@@ -3,7 +3,10 @@ I code things for funsies
 ## Languages & Libraries
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,nodejs,expressjs,python,flask,css,bulma,regex,discordbots&titles=true)
 ## Things I know how to use
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,git,github,debian,ubuntu,arch,astro,raspberrypi,nginx,caddy,postman&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,git,github,gitlab,debian,ubuntu,arch,astro,raspberrypi,nginx,caddy,postman&titles=true)
+## Things I am learning
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,java,tailwind&titles=true)
+
 ## Stats
 ![cbass92's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-92&theme=tokyonight&show_icons=true)
 
